@@ -4,4 +4,4 @@ Like it says, it's a docker image built on alpine with git, curl installed and a
 Alpine version: 3.12.0
 
 # Usage
-`docker run --rm mrnonz/alpine-git-curl https://www.google.com`
+`docker run --rm mrnonz/alpine-git-curl curl https://www.google.com`
