@@ -2,7 +2,7 @@
 
 Like it says, it's a docker image built on alpine with git, curl installed and and only 17 MB!!
 
-Alpine version: 3.12.0
+Alpine version: 3.15.4
 
 # Usage
 
